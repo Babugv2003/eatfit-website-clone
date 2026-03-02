@@ -1,0 +1,352 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.eatfitone {
+    .navbar {
+        display: flex;
+        justify-content: space-around;
+        gap: 30px;
+        font-size: 25px;
+        border-bottom: 2px solid black;
+        height: 50px;
+        align-items: center;
+    }
+
+    .nav-links {
+        display: flex;
+        justify-content: center;
+        gap: 100px;
+
+        a {
+            font-size: 30px;
+            text-decoration: none;
+            color: black;
+        }
+
+        #home {
+            margin-left: 450px;
+        }
+    }
+
+    .icons {
+        display: flex;
+        justify-content: end;
+        gap: 30px;
+
+        a {
+            text-decoration: none;
+            display: flex;
+            justify-content: end;
+            color: orange;
+            border: 1px solid black;
+            background-color: black;
+        }
+
+        #insta {
+            margin-left: 200px;
+        }
+
+
+    }
+
+
+
+
+    .title {
+        padding-top: 20px;
+        padding-bottom: 15px;
+        margin-left: 580px;
+        color: blue;
+        font-size: 50px;
+
+        #hoppo {
+            size: 50px;
+        }
+
+        span {
+            color: blue;
+        }
+
+    }
+
+    .subnavbar {
+        display: flex;
+        justify-content: center;
+        gap: 70px;
+        font-size: 20px;
+        border-bottom: 1px solid black;
+        padding-bottom: 10px;
+
+        a {
+            text-decoration: none;
+        }
+    }
+
+    .cards {
+        display: flex;
+        gap: 10px;
+        justify-content: center;
+        padding-top: 10px;
+
+        .card1 {
+            border: 1px solid black;
+            width: 400px;
+
+            img {
+                width: 100%;
+            }
+
+            h3 {
+                font-size: 20px;
+                padding: 5px;
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            }
+
+            p {
+                text-align: justify;
+                padding: 5px;
+
+            }
+
+            a {
+
+                font-size: 20px;
+                padding-bottom: 10px;
+                text-decoration: none;
+                color: red;
+            }
+
+            #date1 {
+                font-size: 15px;
+                border-top: 1px solid red;
+            }
+        }
+
+
+        .card2 {
+            border: 1px solid black;
+            width: 400px;
+
+            img {
+                width: 100%;
+            }
+
+            h3 {
+                font-size: 20px;
+ padding:5px;
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            }
+
+            p {
+                text-align: justify;
+                 padding:5px;
+
+            }
+
+            a {
+
+                font-size: 20px;
+                padding-bottom: 10px;
+                text-decoration: none;
+                color: red;
+            }
+
+            #date2 {
+                font-size: 15px;
+                border-top: 1px solid red;
+            }
+        }
+
+
+        .card3 {
+            border: 1px solid black;
+            width: 400px;
+
+            img {
+                width: 100%;
+            }
+
+            h3 {
+                font-size: 20px;
+ padding:5px;
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            }
+
+            p {
+                text-align: justify;
+                 padding:5px;
+
+            }
+
+            a {
+
+                font-size: 20px;
+                padding-bottom: 10px;
+                text-decoration: none;
+                color: red;
+            }
+
+            #date3 {
+                font-size: 15px;
+                border-top: 1px solid red;
+            }
+        }
+    }
+
+    .cardss {
+
+        display: flex;
+        gap: 10px;
+        justify-content: center;
+        padding-top: 15px;
+        padding-bottom: 15px;
+
+
+        .card4 {
+            border: 1px solid black;
+            width: 400px;
+
+            img {
+                width: 100%;
+            }
+
+            h3 {
+                font-size: 20px;
+ padding:5px;
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            }
+
+            p {
+                text-align: justify;
+                 padding:5px;
+
+            }
+
+            a {
+
+                font-size: 20px;
+                padding-bottom: 10px;
+                text-decoration: none;
+                color: red;
+            }
+
+            #date4 {
+                font-size: 15px;
+                border-top: 1px solid red;
+            }
+        }
+
+
+        .card5 {
+            border: 1px solid black;
+            width: 400px;
+
+            img {
+                width: 100%;
+            }
+
+            h3 {
+                 padding:5px;
+                font-size: 20px;
+
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            }
+
+            p {
+                text-align: justify;
+                 padding:5px;
+
+            }
+
+            a {
+
+                font-size: 20px;
+                padding-bottom: 10px;
+                text-decoration: none;
+                color: red;
+            }
+
+            #date5 {
+                font-size: 15px;
+                border-top: 1px solid red;
+            }
+        }
+
+
+
+        .card6 {
+            border: 1px solid black;
+            width: 400px;
+
+            img {
+                width: 100%;
+            }
+
+            h3 {
+                font-size: 20px;
+                 padding:5px;
+
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            }
+
+            p {
+                text-align: justify;
+                 padding:5px;
+
+            }
+
+            a {
+
+                font-size: 20px;
+                padding-bottom: 10px;
+                text-decoration: none;
+                color: red;
+            }
+
+            #date6 {
+                font-size: 15px;
+                border-top: 1px solid red;
+            }
+        }
+    }
+
+}
+
+.footer {
+    background-color: #0a2a66;
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+
+    #hoppo1 {
+        font-size: 40px;
+        color: white;
+        margin-bottom: 10px;
+
+
+    }
+
+    #para {
+        font-size: 22px;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+
+    #para1 {
+        padding: 5px;
+        border-top: 2px solid white;
+        font-size: 18px;
+        margin-bottom: 15px;
+
+    }
+
+    a {
+        color: white;
+        font-size: 22px;
+        margin: 0 10px;
+        text-decoration: none;
+    }
+
+}
