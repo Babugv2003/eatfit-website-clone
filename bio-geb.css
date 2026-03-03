@@ -1,0 +1,253 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+}
+
+.icons img {
+    width: 260px;
+}
+
+.elements {
+    display: flex;
+    gap: 40px;
+}
+
+.elements a {
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+}
+
+.bts1 button {
+    background-color: black;
+    color: white;
+    padding: 10px 22px;
+    border-radius: 30px;
+}
+
+.text {
+    background-image: url("https://media.istockphoto.com/id/1042364974/photo/scenic-view-of-mountain-horizon.webp?a=1&b=1&s=612x612&w=0&k=20&c=VCPgd2pAxC8Iy-zLSzw_9UgSVFLOKSeuuH3IarQ1PiQ=");
+    background-size: cover;
+    background-position: center;
+    padding: 160px 40px;
+    max-width: 100%;
+}
+
+.text h1 {
+    font-size: 44px;
+    margin-bottom: 10px;
+}
+
+.bts2 button {
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    padding: 12px 26px;
+    border-radius: 30px;
+}
+
+.content {
+    display: flex;
+    gap: 80px;
+    padding: 100px 40px;
+}
+
+.img2 img {
+    width: 480px;
+    border-radius: 15px;
+}
+
+.para {
+    width: 600px;
+}
+
+.para h1 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.para p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.divs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-bottom: 30px;
+}
+
+.div1 {
+    width: 45%;
+}
+
+.div1 span {
+    font-size: 30px;
+    color: #b35c2c;
+}
+
+.div1 a {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+
+.bts3 button {
+    background-color: black;
+    color: white;
+    padding: 12px 26px;
+    border-radius: 30px;
+}
+
+.context {
+    background-color: black;
+    color: white;
+    padding: 120px 0;
+}
+
+.context-inner {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 40px;
+}
+
+.context1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+    gap: 80px;
+}
+
+.context1 h1 {
+    font-size: 32px;
+    margin-bottom: 15px;
+
+
+    #h1 {
+        margin-left: 300px;
+    }
+}
+
+.context1 p {
+    font-size: 18px;
+    max-width: 650px;
+}
+
+.bts4 button {
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    padding: 12px 26px;
+    border-radius: 30px;
+}
+
+.cards {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card1 {
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: left;
+}
+
+.card1 img {
+    width: 50px;
+    margin-bottom: 20px;
+}
+
+.card1 h2 {
+    margin-bottom: 10px;
+}
+
+
+.card2 {
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: left;
+}
+
+.card2 img {
+    width: 50px;
+    margin-bottom: 20px;
+}
+
+.card2 h2 {
+    margin-bottom: 10px;
+}
+
+
+
+.card3 {
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: left;
+}
+
+.card3 img {
+    width: 50px;
+    margin-bottom: 20px;
+}
+
+.card3 h2 {
+    margin-bottom: 10px;
+}
+
+
+.footer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    h1 {
+        margin-left: 500px;
+        font-size: 25px;
+        padding-bottom: 10px;
+
+    }
+
+
+    p {
+        margin-left:250px;
+        font-size: 20px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding-bottom: 10px;
+        padding-bottom: 40px;
+    }
+
+    button {
+        margin-left:550px ;
+        background-color: black;
+        font-size: 20px;
+        color: white;
+        border-radius: 30px;
+        padding: 15px;
+        
+    }
+
+}
